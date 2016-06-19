@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KayWuDouBan</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="title_name">
+        <item>豆瓣A</item>
+        <item>豆瓣B</item>
+        <item>豆瓣C</item>
+        <item>豆瓣D</item>
+        <item>测试</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KayWuTest.iml" filepath="$PROJECT_DIR$/KayWuTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaywudouban/kaywudouban.iml" filepath="$PROJECT_DIR$/kaywudouban/kaywudouban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaywuzhihu/kaywuzhihu.iml" filepath="$PROJECT_DIR$/kaywuzhihu/kaywuzhihu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefreshtest/pulltorefreshtest.iml" filepath="$PROJECT_DIR$/pulltorefreshtest/pulltorefreshtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewtest/recyclerviewtest.iml" filepath="$PROJECT_DIR$/recyclerviewtest/recyclerviewtest.iml" />
+    </modules>
+  </component>
+</project>
